@@ -19,7 +19,7 @@ Anyone can reproduce your environment using:
 
 git clone <repo>
 
-cd tss-synthetic-data
+cd youtube_downloader
 
 python -m venv env
 
