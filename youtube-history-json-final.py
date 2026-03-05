@@ -5,7 +5,7 @@ import os
 from openpyxl import Workbook
 
 # === CONFIGURATION ===
-FILE_PATH = 'workstation-ram31-watch-history.json'
+FILE_PATH = r'input/watch-history-05mar26-workram31.json'
 IGNORE_FILE = 'ignore_channels.txt'
 
 # === FUNCTIONS ===
